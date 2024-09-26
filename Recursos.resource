@@ -4,7 +4,8 @@ Library    RequestsLibrary
 Library    String
 Library    Collections
 Library    FakerLibrary    locale=pt_BR
-Resource   ../Projeto_Academy_Suits/variaveis.robot
+Resource  ../Projeto_Academy_Suits - Copia/variaveis.robot
+Resource  ../Projeto_Academy_Suits - Copia/Recursos.resource
 
 *** Keywords ***
 
